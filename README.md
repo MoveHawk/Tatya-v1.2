@@ -1,8 +1,9 @@
-# Tatya-v1.2
-<p align="center">
-  <img src="media/Tatya Title.png" alt="Game Title" width="400"/>
-</p>
+# Tatya-v1.2.0
+[![Tatya Gameplay](Main-Menu-Final.png)](https://youtu.be/U2wNdQzi_rE?si=JXLUSEoBi4uBGMIE)
+<sub> Tatya gameplay walkthrough </sub>
+
 "Tatya" is a puzzle-based survival horror game inspired by the character Tatya Vinchu from the film Zapatlela. Players must explore a dark, atmospheric environment, solve puzzles, and survive against a relentless threat.
+
 a Sem 4 (2nd year) - University Project, developed by a Passionate team of 7 young developers.
 
 My Role (Mrunal Mendole) - Lead Game Programmer:
