@@ -13,3 +13,12 @@ My Role (Mrunal Mendole) - Lead Game Programmer:
 3) Created responsive UI/UX elements, Handled sound design and integration including spatial audio and adaptive BGMs.
 4) Co-developed a modular puzzle system, enabling multiple interactive challenges and player-triggered events.
 5) Collaborated in a team of 7 members (incl. artists & designers) to align gameplay systems with the overall story.
+
+<br>
+Credits: <br>
+Music: <br>
+ErikMMusic - Look Behind You: https://youtu.be/BntrNnlKydE?si=CkOs24FBYXOu0Z65 <br>
+
+Font: <br>
+Cat Butcher - Stranger Back in the Night: https://www.dafont.com/stranger-back-in-the-night.font
+
