@@ -1,6 +1,6 @@
 # Tatya-v1.2.0
-[![Tatya Gameplay](main-menu-final.png)](https://youtu.be/txA7d0jqw8g?si=c-Gb69mGWlal-X8d)
-Tatya gameplay walkthrough: https://youtu.be/txA7d0jqw8g?si=c-Gb69mGWlal-X8d
+[![Tatya Gameplay](main-menu-final.png)](https://youtu.be/txA7d0jqw8g?si=R84R4qaz3W_HVNYc)
+Tatya gameplay walkthrough: https://youtu.be/txA7d0jqw8g?si=R84R4qaz3W_HVNYc
 
 "Tatya" is a puzzle-based survival horror game inspired by the character Tatya Vinchu from the film Zapatlela. Players must explore a dark, atmospheric environment, solve puzzles, and survive against a relentless threat. <br>
 <sub> - Check releases for the latest playable build </sub>
